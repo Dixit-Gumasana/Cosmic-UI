@@ -129,7 +129,7 @@ class _innerpgState extends State<innerpg> {
                       size: 40,
                     ),
 
-                    SizedBox(height: 8),
+                    SizedBox(height: 7),
                     Text(
                       '${text1[index]}',
                       style: TextStyle(
